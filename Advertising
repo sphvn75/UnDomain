@@ -20,12 +20,16 @@ ads.eu.criteo.com
 ads.nl3.vip.prod.criteo.com
 ads.stickyadstv.com
 ads.trafficjunky.net
+ads.us.e-planning.net
 ads.videoadex.com
 adserver-logmodule-prod-nlb-v17-49f63daf8a61d3c8.elb.eu-central-1.amazonaws.com
+adserver-prod-alb-2056226458.eu-central-1.elb.amazonaws.com
 adservice.google.com
 adservice.google.fr
 ag.gbc.criteo.com
 ams.creativecdn.com
+analytic-client.chickgoddess.com
+analytic-client.panowars.com
 analytics.tiktok.com
 api.btloader.com
 app-measurement.com
@@ -34,6 +38,8 @@ ariane.abtasty.com
 assets.strpst.com
 auction-load.unityads.unity3d.com
 aus5.mozilla.org
+ausoafab.net
+backup.assets.chickgoddess.com
 bemyxfriend.com
 bidder.criteo.com
 bidder.nl3.vip.prod.criteo.com
@@ -42,6 +48,7 @@ binpowerwow.com
 bngtrak.com
 bongacams.com
 bongacams10.com
+bs.serving-sys.com
 bshr.ezodn.com
 btloader.com
 c.amazon-adsystem.com
@@ -58,6 +65,7 @@ cdn.insurads.com
 cdn.medyanetads.com
 cdn.netmera-web.com
 cdn.onenote.net
+cdn.otnolatrnup.com
 cdn.taboola.com
 cdn.tsyndicate.com
 cdnssl.clicktale.net
@@ -88,6 +96,8 @@ dns.msftncsi.com
 edge17-ams.live.mmcdn.com
 edge3-ams.live.mmcdn.com
 eg-cdn.trafficjunky.net
+enlightenedretailer.com
+eu-eb2.3lift.com
 eu-west-dual.ads.stickyadstv.com.akadns.net
 eu.wargaming.net
 eu1.az.contentsquare.net
@@ -99,6 +109,7 @@ firebase-settings.crashlytics.com
 firebaselogging-pa.googleapis.com
 fr.bongacams.com
 fundingchoicesmessages.google.com
+g.ezodn.com
 g.ezoic.net
 galleryn0.vcmdiawe.com
 gbc0.nl3.eu.criteo.com
@@ -107,7 +118,9 @@ gem.gbc.criteo.com
 geoloc.hurriyet.com.tr
 geolocation.onetrust.com
 ghb-adtelligent-com.geodns.me
+ghb-unoadsrv-com.geodns.me
 ghb.adtelligent.com
+ghb.console.adtarget.com.tr
 ghb1.adtelligent.com
 ghb2.adtelligent.com
 go.microsoft.com
@@ -115,8 +128,10 @@ go.stripchat.com
 go.xxxijmp.com
 go.xxxvjmp.com
 googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
 gum.criteo.com
 gum.nl3.vip.prod.criteo.com
+hbopenbid-ams.pubmnet.com
 hbopenbid-lhrc.pubmnet.com
 hbopenbid.pubmatic.com
 horny-honey.online
@@ -136,6 +151,7 @@ imageproxy.eu.criteo.net
 imageproxy.nl3.vip.prod.criteo.net
 img.strpst.com
 incoming.telemetry.mozilla.org
+infra-anal-8a77c99bd3568fc2.elb.eu-central-1.amazonaws.com
 insurads.b-cdn.net
 ip225236225.ahcdn.com
 join.worldoftanks.eu
@@ -145,6 +161,7 @@ k-eu1.az.contentsquare.net
 l.contentsquare.net
 live.chartboost.com
 livehdcams.com
+lust-goddess.com
 m.chaturbate.com
 masturbateandchill.com
 media.trafficjunky.net
@@ -157,18 +174,23 @@ nwr.mmcdn.com
 nwr.static.mmcdn.com
 ocsp.godaddy.com.akadns.net
 otnolatrnup.com
+pagead-googlehosted.l.google.com
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 pandg.tapad.com
 partner.googleadservices.com
 pghub.io
+pixel.rubiconproject.net.akadns.net
 prebid-server-perf-eu.rubiconproject.net.akadns.net
 prebid-server.rubiconproject.com
 prebid.adnxs.com
+privacy.eu.criteo.com
+privacy.nl3.vip.prod.criteo.com
 pro.ip-api.com
 prod.tahoe-analytics.publishers.advertising.a2z.com
 pubads.g.doubleclick.net
 pubmatic.com
+pull-3820.5centscdn.com
 push.services.mozilla.com
 pxl.tsyndicate.com
 q-eu1.az.contentsquare.net
@@ -176,6 +198,7 @@ r.bing.com
 r.contentsquare.net
 realtime.pa.highwebmedia.com
 region1.app-measurement.com
+region1.google-analytics.co
 region1.google-analytics.com
 report-uri.mmcdn.com
 request-global.czilladx.com
@@ -186,6 +209,7 @@ s.optnx.com
 s0.2mdn.net
 s3t3d2y8.afcdn.net
 secure-assets.rubiconproject.com
+secure-ds.serving-sys.com
 securepubads.g.doubleclick.net
 seekheart.fr
 sentry-public.stripchat.com
@@ -200,6 +224,7 @@ static-lg-ht.cpa-content.com
 static-lg-ht.cpa-content.com.lds.rncdn7.com
 static-sm-ht.cpa-content.com
 static-sm-ht.cpa-content.com.sds.rncdn7.com
+static.a-ads.com
 static.adsafeprotected.com
 static.criteo.net
 static.doubleclick.net
@@ -222,6 +247,7 @@ tile-service.weather.microsoft.com
 tk.amazon-adsystem.com
 tk6i76q.ab1n.net
 tls13.taboola.map.fastly.net
+token.rubiconproject.com
 tpc.googlesyndication.com
 track.aftrk1.com
 track.aftrk3.com
@@ -233,6 +259,7 @@ tsyndicate.com
 twinrdsrv.com
 u.logbor.com
 uidapi.com
+ups.analytics.yahoo.com
 vacdn.tsyndicate.com
 vast.livejasmin.com
 video-player.aps.amazon-adsystem.com
